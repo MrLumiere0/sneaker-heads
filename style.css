@@ -27,3 +27,36 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+body {
+    margin: 0;
+    background-color: #65554a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    text-align: center;
+    color: white
+}
+
+h1{
+    height: 4rem;
+    font-size: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin-top: 0;
+}
+#jordans-1{
+    height: 400px;
+    width: 600px;
+}
+
+#jordans-2{
+    height: 400px;
+    width: 600px;
+}
+
+
